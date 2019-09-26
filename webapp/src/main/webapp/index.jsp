@@ -1,2 +1,2 @@
-<h1> Hello, Welcome to DEVOPS World !!! </h1>
+<h1> Welcome to DEVOPS World !!! </h1>
 
